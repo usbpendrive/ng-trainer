@@ -8,7 +8,7 @@ import { WorkoutRunnerModule } from './workout-runner/workout-runner.module';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserModule,
